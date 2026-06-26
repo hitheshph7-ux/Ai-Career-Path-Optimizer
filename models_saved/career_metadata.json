@@ -1,0 +1,118 @@
+{
+  "classes": [
+    "AI/ML Engineer",
+    "Blockchain Developer",
+    "Cloud Architect",
+    "Cybersecurity Analyst",
+    "Data Scientist",
+    "DevOps Engineer",
+    "Full Stack Developer",
+    "Mobile Developer",
+    "Product Manager",
+    "UI/UX Designer"
+  ],
+  "skill_columns": [
+    "Python_Skill",
+    "Java_Skill",
+    "JavaScript_Skill",
+    "SQL_Skill",
+    "C++_Skill",
+    "R_Skill",
+    "Machine_Learning_Skill",
+    "Deep_Learning_Skill",
+    "NLP_Skill",
+    "Computer_Vision_Skill",
+    "React_Skill",
+    "Node.js_Skill",
+    "Django_Skill",
+    "FastAPI_Skill",
+    "Docker_Skill",
+    "AWS_Skill",
+    "Azure_Skill",
+    "GCP_Skill",
+    "Kubernetes_Skill",
+    "Terraform_Skill",
+    "TensorFlow_Skill",
+    "PyTorch_Skill",
+    "Scikit-learn_Skill",
+    "Pandas_Skill",
+    "NumPy_Skill",
+    "System_Design_Skill",
+    "Data_Structures_Skill",
+    "Algorithms_Skill",
+    "Statistics_Skill",
+    "Linear_Algebra_Skill"
+  ],
+  "required_skills": {
+    "AI/ML Engineer": [
+      "Algorithms_Skill",
+      "System_Design_Skill",
+      "JavaScript_Skill",
+      "Python_Skill",
+      "Java_Skill"
+    ],
+    "Blockchain Developer": [
+      "Algorithms_Skill",
+      "System_Design_Skill",
+      "JavaScript_Skill",
+      "Python_Skill",
+      "Java_Skill"
+    ],
+    "Cloud Architect": [
+      "Algorithms_Skill",
+      "System_Design_Skill",
+      "JavaScript_Skill",
+      "Python_Skill",
+      "Java_Skill"
+    ],
+    "Cybersecurity Analyst": [
+      "Algorithms_Skill",
+      "System_Design_Skill",
+      "JavaScript_Skill",
+      "Python_Skill",
+      "Java_Skill"
+    ],
+    "Data Scientist": [
+      "Algorithms_Skill",
+      "System_Design_Skill",
+      "JavaScript_Skill",
+      "Python_Skill",
+      "Java_Skill"
+    ],
+    "DevOps Engineer": [
+      "Algorithms_Skill",
+      "System_Design_Skill",
+      "JavaScript_Skill",
+      "Python_Skill",
+      "Java_Skill"
+    ],
+    "Full Stack Developer": [
+      "Algorithms_Skill",
+      "System_Design_Skill",
+      "JavaScript_Skill",
+      "Python_Skill",
+      "Java_Skill"
+    ],
+    "Mobile Developer": [
+      "Algorithms_Skill",
+      "System_Design_Skill",
+      "JavaScript_Skill",
+      "Python_Skill",
+      "Java_Skill"
+    ],
+    "Product Manager": [
+      "Algorithms_Skill",
+      "System_Design_Skill",
+      "JavaScript_Skill",
+      "Python_Skill",
+      "Java_Skill"
+    ],
+    "UI/UX Designer": [
+      "Algorithms_Skill",
+      "System_Design_Skill",
+      "JavaScript_Skill",
+      "Python_Skill",
+      "Java_Skill"
+    ]
+  }
+}
